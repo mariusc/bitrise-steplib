@@ -14,7 +14,7 @@ We require to create a new PR after addressing review concerns. This is needed t
 
 One PR should contain only one step.
 
-### Install Bitrise CLI
+### Install Bitrise CLI 
 
 Install the [Bitrise CLI](https://www.bitrise.io/cli) to run `bitrise` on your machine locally.
 
